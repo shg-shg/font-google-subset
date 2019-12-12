@@ -1,0 +1,7 @@
+node_modules/
+dst/
+*.otf
+*.ttf
+
+# os
+.DS_Store

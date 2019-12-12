@@ -1,0 +1,20 @@
+{
+  "name": "webfont-optimization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "shg_shg",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "concat": "^1.0.3",
+    "core-js": "^3.5.0",
+    "css": "^2.2.4",
+    "del": "^3.0.0",
+    "font-ranger": "^3.0.5",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6"
+  },
+  "scripts": {
+    "make": "node index"
+  }
+}
